@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xba0fa1221823c21b3a58499e4d050652d2200e54",
+  "SCAN_LINK": "https://etherscan.io/address/0xba0fa1221823c21b3a58499e4d050652d2200e54",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Confetti Frens NFT",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 400000000000000000,
+  "DISPLAY_COST": 0.088,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/confettifrens",
+  "LOOKS_LINK":"https://www.looksrare.org",
+  "X2Y2_LINK":"https://www.x2y2.io",
+  "SHOW_BACKGROUND": true
+}
